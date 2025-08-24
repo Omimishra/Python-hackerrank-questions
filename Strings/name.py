@@ -7,7 +7,7 @@
 # The function accepts following parameters:
 #  1. STRING first
 #  2. STRING last
-#
+#https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
 
 def print_full_name(first, last):
     # Write your code here
